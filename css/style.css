@@ -1,0 +1,27 @@
+body {
+    background-color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    color: #333;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    border: 3px solid #000;
+}
+
+nav a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #222;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
